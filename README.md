@@ -45,7 +45,7 @@ Former Front-End Dev @ **Dial Medical** (Italy) — surgical planning tools for 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -57,7 +57,7 @@ Former Front-End Dev @ **Dial Medical** (Italy) — surgical planning tools for 
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
