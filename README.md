@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nataly+%F0%9F%91%8B;Data+Scientist+%26+AI+Engineer;Full+Stack+Developer;AI+in+Healthcare+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nataly+%F0%9F%91%8B;Data+Scientist+%26+;Full+Stack+Developer;Healthcare+Researcher" alt="Typing SVG" />
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
  Passionate about building AI systems that solve real problems — from training CNNs to shipping full-stack apps.  
 Currently finishing my B.Sc. in Systems & Computer Engineering at Universidad Nacional de Colombia.  
