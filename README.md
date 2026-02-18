@@ -4,7 +4,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🇨🇴 Bogotá, Colombia &nbsp;|&nbsp; 🎓 UNAL &nbsp;|&nbsp; ⭐ GPA 4.6/5.0
+### 🇨🇴 Bogotá, Colombia &nbsp;|&nbsp;  UNAL &nbsp;|&nbsp; 
 
 </div>
 
@@ -12,16 +12,15 @@
 
 ## 🧑‍💻 About Me
 
-💡 Passionate about building AI systems that solve real problems — from training CNNs to shipping full-stack apps.  
-🎓 Currently finishing my B.Sc. in Systems & Computer Engineering at Universidad Nacional de Colombia.  
-🏥 Former Front-End Dev @ **Dial Medical** (Italy) — surgical planning tools for orthopedic procedures.  
-👩‍🏫 Teaching Assistant — Intelligent Systems @ UNAL.  
-🌍 I speak Spanish 🇨🇴, English 🇬🇧, and Italian 🇮🇹.  
-📬 Reach me at **ksierram@unal.edu.co**
+ Passionate about building AI systems that solve real problems — from training CNNs to shipping full-stack apps.  
+Currently finishing my B.Sc. in Systems & Computer Engineering at Universidad Nacional de Colombia.  
+Former Front-End Dev @ **Dial Medical** (Italy) — surgical planning tools for orthopedic procedures.  
+
+ Reach me at **ksierram@unal.edu.co**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI & Machine Learning**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,11 +49,11 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🧬 **Deep Learning Tumor Classifier** | CNN achieving **92% accuracy** on multi-class medical images with explainability | `TensorFlow` `Keras` `Python` |
-| 📹 **Real-Time Object Detection** | Video pipeline at **30 FPS** | `OpenCV` `Python` |
-| 📚 [**XLR8-Parla**](https://github.com/nat1600/XLR8-parla-backend) | Vocab learning platform with Django REST + browser extension + spaced repetition | `Django` `JS` `PostgreSQL` |
-| 🤖 [**VENUS Virtual Assistant**](https://github.com/nat1600/VENUS-ASISTENTE-VIRTUAL) | Voice-command assistant: web, Wikipedia & more | `Python` `Speech Recognition` |
-| 🎯 [**Slow Detection**](https://github.com/nat1600/Slow-detection) | Object detection on video streams | `OpenCV` `Python` |
+| **Deep Learning Tumor Classifier** | CNN achieving **92% accuracy** on multi-class medical images with explainability | `TensorFlow` `Keras` `Python` |
+|  **Real-Time Object Detection** | Video pipeline at **30 FPS** | `OpenCV` `Python` |
+| [**XLR8-Parla**](https://github.com/nat1600/XLR8-parla-backend) | Vocab learning platform with Django REST + browser extension + spaced repetition | `Django` `JS` `PostgreSQL` |
+|  [**VENUS Virtual Assistant**](https://github.com/nat1600/VENUS-ASISTENTE-VIRTUAL) | Voice-command assistant: web, Wikipedia & more | `Python` `Speech Recognition` |
+| [**Slow Detection**](https://github.com/nat1600/Slow-detection) | Object detection on video streams | `OpenCV` `Python` |
 
 ---
 
@@ -68,17 +67,10 @@
 
 </div>
 
----
-
-## 📌 Currently Working On
-
-- [ ] 🚀 Releasing XLR8-Parla platform publicly  
-- [ ] 📝 Publishing tumor classification project with full writeup  
-- [ ] 🤖 Exploring LLM fine-tuning for medical NLP  
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -92,6 +84,6 @@
 
 <div align="center">
 
-*"Building systems that learn, so humans can focus on what matters."* 🦁
+*"Building systems that learn, so humans can focus on what matters."* 
 
 </div>
