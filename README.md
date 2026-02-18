@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nataly+%F0%9F%91%8B;Data+Scientist+%26+;Full+Stack+Developer;Healthcare+Researcher" alt="Typing SVG" />
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="280" src="" />
 
 ### 🇨🇴 Bogotá, Colombia &nbsp;|&nbsp;  UNAL &nbsp;|&nbsp; 
 
@@ -63,7 +63,7 @@ Former Front-End Dev @ **Dial Medical** (Italy) — surgical planning tools for 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nat1600&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
 
-[![nat1600's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nat1600&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true)](https://github.com/nat1600)
+
 
 </div>
 
