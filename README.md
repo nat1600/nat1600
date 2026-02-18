@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nataly+%F0%9F%91%8B;Data+Scientist+%26+;Full+Stack+Developer;Healthcare+Researcher" alt="Typing SVG" />
 
-<img align="right" width="280" src="" />
+<img align="right" width="280" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" />
 
 ### 🇨🇴 Bogotá, Colombia &nbsp;|&nbsp;  UNAL &nbsp;|&nbsp; 
 
@@ -12,7 +12,10 @@
 
 ## About Me
 
- Passionate about building AI systems that solve real problems — from training CNNs to shipping full-stack apps.  
+
+
+ I'm driven by autonomous learning and continuous improvement, with strong interests in backend systems, database design, software engineering, and Artificial Intelligence. I enjoy building scalable solutions and exploring unconventional ideas that challenge traditional approaches.
+ 
 Currently finishing my B.Sc. in Systems & Computer Engineering at Universidad Nacional de Colombia.  
 Former Front-End Dev @ **Dial Medical** (Italy) — surgical planning tools for orthopedic procedures.  
 
