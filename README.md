@@ -1,100 +1,97 @@
-## Hi there 👋
-
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nataly+%F0%9F%91%8B;Data+Scientist+%26+AI+Engineer;Full+Stack+Developer;AI+in+Healthcare+Researcher" alt="Typing SVG" />
 
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### ` · AI · Full Stack Developer`
-
-🇨🇴 Bogotá, Colombia &nbsp;|&nbsp;  Universidad Nacional de Colombia &nbsp;
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-karem--nataly--sierra--molina-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/karem-nataly-sierra-molina)
-[![Email](https://img.shields.io/badge/Email-ksierram@unal.edu.co-EA4335?style=flat-square&logo=gmail)](mailto:ksierram@unal.edu.co)
+### 🇨🇴 Bogotá, Colombia &nbsp;|&nbsp; 🎓 UNAL &nbsp;|&nbsp; ⭐ GPA 4.6/5.0
 
 </div>
 
 ---
 
-##  About Me
+## 🧑‍💻 About Me
 
-Systems & Computer Engineering student passionate about building AI systems that actually solve real problems. I bridge the gap between research and production — from training CNNs to shipping full-stack web apps.
-
-Currently finishing my B.Sc. (expected 2025) while working on AI applied to healthcare and building scalable learning platforms.
-
--  Research interests: **AI in Healthcare**, **Computer Vision**, **Scalable Systems**
-- Former Front-End Developer @ **Dial Medical** (Italy) — surgical planning tools for orthopedic procedures
-
-
----
-
-## Tech Stack
-
-**Backend & APIs**
-```
-Python · Django · FastAPI · REST APIs · PostgreSQL · MongoDB
-```
-
-
-**AI & Machine Learning**
-```
-TensorFlow · Keras · PyTorch · Scikit-learn · OpenCV · CNNs · Computer Vision
-```
-
-
-**Frontend & Full Stack**
-```
-React · JavaScript · TypeScript · HTML/CSS · 
-```
-
-**DevOps & Tools**
-```
-Docker · Git · Linux · GCP · Pandas · NumPy
-```
+💡 Passionate about building AI systems that solve real problems — from training CNNs to shipping full-stack apps.  
+🎓 Currently finishing my B.Sc. in Systems & Computer Engineering at Universidad Nacional de Colombia.  
+🏥 Former Front-End Dev @ **Dial Medical** (Italy) — surgical planning tools for orthopedic procedures.  
+👩‍🏫 Teaching Assistant — Intelligent Systems @ UNAL.  
+🌍 I speak Spanish 🇨🇴, English 🇬🇧, and Italian 🇮🇹.  
+📬 Reach me at **ksierram@unal.edu.co**
 
 ---
 
-##  Featured Projects
+## 🛠️ Tech Stack
 
-###  Deep Learning Tumor Classifier
-> CNN-based explainable classification system achieving **92% accuracy** on multi-class medical images.  
-> `Python` `TensorFlow` `Keras` `Data Augmentation`
+**AI & Machine Learning**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Real-Time Object Detection
-> Video object detection pipeline running at **30 FPS** using computer vision techniques.  
-> `Python` `OpenCV` `Computer Vision`
+**Backend & Databases**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### [XLR8-Parla](https://github.com/nat1600/XLR8-parla-backend) — Vocabulary Learning Platform
-> Full-stack language learning app: Django REST backend + browser extension with spaced repetition algorithm.  
-> `Python` `Django` `JavaScript` `PostgreSQL` `REST APIs`
-
-### [VENUS Virtual Assistant](https://github.com/nat1600/VENUS-ASISTENTE-VIRTUAL)
-> Voice-command assistant: opens websites, searches Wikipedia, and more.  
-> `Python` `Speech Recognition`
-
-###  [Slow Detection](https://github.com/nat1600/Slow-detection)
-> Object detection algorithm applied to video streams.  
-> `Python` `Computer Vision`
+**Frontend & DevOps**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-##  GitHub Stats
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🧬 **Deep Learning Tumor Classifier** | CNN achieving **92% accuracy** on multi-class medical images with explainability | `TensorFlow` `Keras` `Python` |
+| 📹 **Real-Time Object Detection** | Video pipeline at **30 FPS** | `OpenCV` `Python` |
+| 📚 [**XLR8-Parla**](https://github.com/nat1600/XLR8-parla-backend) | Vocab learning platform with Django REST + browser extension + spaced repetition | `Django` `JS` `PostgreSQL` |
+| 🤖 [**VENUS Virtual Assistant**](https://github.com/nat1600/VENUS-ASISTENTE-VIRTUAL) | Voice-command assistant: web, Wikipedia & more | `Python` `Speech Recognition` |
+| 🎯 [**Slow Detection**](https://github.com/nat1600/Slow-detection) | Object detection on video streams | `OpenCV` `Python` |
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Nataly's GitHub stats](https://github-readme-stats.vercel.app/api?username=nat1600&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nat1600&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nat1600&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+[![nat1600's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nat1600&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true)](https://github.com/nat1600)
 
 </div>
 
 ---
 
-## What I'm Working On
+## 📌 Currently Working On
 
-- [ ] Releasing the full XLR8-Parla platform
-
+- [ ] 🚀 Releasing XLR8-Parla platform publicly  
+- [ ] 📝 Publishing tumor classification project with full writeup  
+- [ ] 🤖 Exploring LLM fine-tuning for medical NLP  
 
 ---
 
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-karem--nataly--sierra--molina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karem-nataly-sierra-molina)
+[![Email](https://img.shields.io/badge/Email-ksierram@unal.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksierram@unal.edu.co)
+[![GitHub](https://img.shields.io/badge/GitHub-nat1600-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nat1600)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building systems that learn, so humans can focus on what matters."* 🦁
 
 </div>
