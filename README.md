@@ -2,16 +2,9 @@
 
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ██████╗ ███████╗███╗   ███╗
-██║ ██╔╝██╔══██╗██╔══██╗██╔════╝████╗ ████║
-█████╔╝ ███████║██████╔╝█████╗  ██╔████╔██║
-██╔═██╗ ██╔══██║██╔══██╗██╔══╝  ██║╚██╔╝██║
-██║  ██╗██║  ██║██║  ██║███████╗██║ ╚═╝ ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝
-```
 
-### `Data Scientist · AI Engineer · Full Stack Developer`
+
+### ` · AI · Full Stack Developer`
 
 🇨🇴 Bogotá, Colombia &nbsp;|&nbsp; 🎓 Universidad Nacional de Colombia &nbsp;|&nbsp; 📊 GPA 4.6/5.0
 
@@ -37,19 +30,21 @@ Currently finishing my B.Sc. (expected 2025) while working on AI applied to heal
 
 ## 🛠️ Tech Stack
 
-**AI & Machine Learning**
-```
-TensorFlow · Keras · PyTorch · Scikit-learn · OpenCV · CNNs · Computer Vision
-```
-
 **Backend & APIs**
 ```
 Python · Django · FastAPI · REST APIs · PostgreSQL · MongoDB
 ```
 
+
+**AI & Machine Learning**
+```
+TensorFlow · Keras · PyTorch · Scikit-learn · OpenCV · CNNs · Computer Vision
+```
+
+
 **Frontend & Full Stack**
 ```
-React · JavaScript · TypeScript · HTML/CSS
+React · JavaScript · TypeScript · HTML/CSS · 
 ```
 
 **DevOps & Tools**
@@ -83,7 +78,7 @@ Docker · Git · Linux · GCP · Pandas · NumPy
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -98,13 +93,9 @@ Docker · Git · Linux · GCP · Pandas · NumPy
 ## 📌 What I'm Working On
 
 - [ ] Releasing the full XLR8-Parla platform publicly
-- [ ] Publishing my tumor classification project with full writeup
-- [ ] Exploring LLM fine-tuning for medical domain NLP
+
 
 ---
 
-<div align="center">
-
-*"Building systems that learn, so humans can focus on what matters."*
 
 </div>
