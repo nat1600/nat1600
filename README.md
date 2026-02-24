@@ -48,24 +48,19 @@ Former Front-End Dev @ **Dial Medical** (Italy) — surgical planning tools for 
 
 ---
 
-## Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **Deep Learning Tumor Classifier** | CNN achieving **92% accuracy** on multi-class medical images with explainability | `TensorFlow` `Keras` `Python` |
-|  **Real-Time Object Detection** | Video pipeline at **30 FPS** | `OpenCV` `Python` |
-| [**XLR8-Parla**](https://github.com/nat1600/XLR8-parla-backend) | Vocab learning platform with Django REST + browser extension + spaced repetition | `Django` `JS` `PostgreSQL` |
-|  [**VENUS Virtual Assistant**](https://github.com/nat1600/VENUS-ASISTENTE-VIRTUAL) | Voice-command assistant: web, Wikipedia & more | `Python` `Speech Recognition` |
-| [**Slow Detection**](https://github.com/nat1600/Slow-detection) | Object detection on video streams | `OpenCV` `Python` |
 
----
 
 ##  GitHub Analytics
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nat1600&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=nat1600&theme=shades_of_purple&hide_border=false" alt="GitHub Streak Stats">
+<br><br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nat1600&theme=shades_of_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nat1600&theme=shades_of_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nat1600&theme=shades_of_purple)
 
 
 </div>
